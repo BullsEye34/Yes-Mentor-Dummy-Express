@@ -1,0 +1,32 @@
+{
+    "course": [
+      {
+        "id": 0,
+        "img": "https://placeimg.com/640/640/any",
+        "title": "UI Design",
+        "startColor": "0xff6D62EA",
+        "endColor": "0xff5047C0"
+      },
+      {
+        "id": 1,
+        "img": "https://placeimg.com/640/640/any",
+        "title": "UX Design",
+        "startColor": "0xffE49764",
+        "endColor": "0xffAF5D1F"
+      },
+      {
+        "id": 2,
+        "img": "https://placeimg.com/640/640/any",
+        "title": "Statistics",
+        "startColor": "0xffE0EA62",
+        "endColor": "0xffA3AC41"
+      },
+      {
+        "id": 3,
+        "img": "https://placeimg.com/640/640/any",
+        "title": "Illustrator",
+        "startColor": "0xffDE5EAD",
+        "endColor": "0xffEA6287"
+      }
+    ]
+  }
