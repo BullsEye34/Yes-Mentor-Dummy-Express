@@ -1,0 +1,49 @@
+{
+    "course": [
+      {
+        "id": 0,
+        "lesson": "Introduction",
+        "level": "Beginner",
+        "duration": 45,
+        "fav": false,
+        "isVideo": false,
+        "url": "/"
+      },
+      {
+        "id": 1,
+        "lesson": "Some Advanced Lesson",
+        "level": "Advanced",
+        "duration": 120,
+        "fav": true,
+        "isVideo": true,
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "lesson": "Some Beginner Lesson",
+        "level": "Beginner",
+        "duration": 20,
+        "fav": false,
+        "isVideo": true,
+        "url": "/"
+      },
+      {
+        "id": 3,
+        "lesson": "Another Beginner Lesson",
+        "level": "Beginner",
+        "duration": 10,
+        "fav": false,
+        "isVideo": false,
+        "url": "/"
+      },
+      {
+        "id": 4,
+        "lesson": "A Very Intermediate Lesson",
+        "level": "Intermediate",
+        "duration": 40,
+        "fav": false,
+        "isVideo": true,
+        "url": "/"
+      }
+    ]
+  }
