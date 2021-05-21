@@ -1,0 +1,24 @@
+{
+    "assignments": [
+      {
+        "id": 0,
+        "week": 1,
+        "color": "0xffFFD30E"
+      },
+      {
+        "id": 1,
+        "week": 2,
+        "color": "0xff5F0090"
+      },
+      {
+        "id": 2,
+        "week": 3,
+        "color": "0xff333333"
+      },
+      {
+        "id": 3,
+        "week": 4,
+        "color": "0xffFF007A"
+      }
+    ]
+  }
