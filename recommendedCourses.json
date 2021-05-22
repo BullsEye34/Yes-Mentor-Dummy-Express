@@ -1,0 +1,58 @@
+{
+    "recommended": [
+      {
+        "title": "Marketing",
+        "lecturer": "Jerry",
+        "chapters": 20,
+        "tests": 10,
+        "startColor": "0xff00C179",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff00613D"
+      },
+      {
+        "title": "Machine learning",
+        "lecturer": "Jerry",
+        "chapters": 10,
+        "tests": 5,
+        "startColor": "0xff8D5165",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff472933"
+      },
+      {
+        "title": "Logical Reasoning",
+        "lecturer": "Dev",
+        "chapters": 20,
+        "tests": 10,
+        "startColor": "0xff8B48FF",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff462480"
+      },
+      {
+        "title": "Content Writing",
+        "lecturer": "Dev",
+        "chapters": 20,
+        "tests": 10,
+        "startColor": "0xffFFD30E",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff806A07"
+      },
+      {
+        "title": "App Development",
+        "lecturer": "Vamshi",
+        "chapters": 20,
+        "tests": 10,
+        "img": "https://placeimg.com/640/640/any",
+        "startColor": "0xffDE5EAD",
+        "endColor": "0xffEA6287"
+      },
+      {
+        "title": "Java",
+        "lecturer": "Vamshi",
+        "chapters": 20,
+        "tests": 10,
+        "startColor": "0xffE0EA62",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xffA3AC41"
+      }
+    ]
+  }
