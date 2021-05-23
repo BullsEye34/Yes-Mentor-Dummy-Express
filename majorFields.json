@@ -1,0 +1,47 @@
+
+{
+    "fields": [
+      {
+        "startColor": "0xff00C179",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff00613D",
+        "major": "Marketing",
+        "qty": 10
+      },
+      {
+        "startColor": "0xff8D5165",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff472933",
+        "major": "Computer Science",
+        "qty": 20
+      },
+      {
+        "startColor": "0xff8B48FF",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff462480",
+        "major": "Aptitude",
+        "qty": 15
+      },
+      {
+        "startColor": "0xffFFD30E",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xff806A07",
+        "major": "Design",
+        "qty": 50
+      },
+      {
+        "img": "https://placeimg.com/640/640/any",
+        "startColor": "0xffDE5EAD",
+        "endColor": "0xffEA6287",
+        "major": "App Development",
+        "qty": 500
+      },
+      {
+        "startColor": "0xffE0EA62",
+        "img": "https://placeimg.com/640/640/any",
+        "endColor": "0xffA3AC41",
+        "major": "Testing",
+        "qty": 900
+      }
+    ]
+  }
