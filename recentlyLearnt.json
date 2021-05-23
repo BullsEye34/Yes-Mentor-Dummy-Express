@@ -1,0 +1,32 @@
+{
+    "recents": [
+      {
+        "name": "Week 1",
+        "course": "Basics of Data Analysis",
+        "lecturer": "",
+        "isWeek": true,
+        "score": 25
+      },
+      {
+        "name": "Marketing",
+        "course": "Basics of Data Analysis",
+        "lecturer": "Jerry",
+        "isWeek": false,
+        "score": 25
+      },
+      {
+        "name": "Week 1",
+        "course": "Interference",
+        "lecturer": "",
+        "isWeek": true,
+        "score": 25
+      },
+      {
+        "name": "App Development",
+        "course": "Basics of Data Analysis",
+        "lecturer": "Vamshi",
+        "isWeek": false,
+        "score": 25
+      }
+    ]
+  }
