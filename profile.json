@@ -1,0 +1,19 @@
+{
+    "profile": {
+      "name": "Jerry Joy",
+      "email": "jerry@testingEmail.com",
+      "phone": 1234567890,
+      "dob": "1999-05-11 11:22:20.667827",
+      "isVerified": false,
+      "address":[
+          {
+              "houseNumber": 123,
+              "street": "123rd Main, new Layout, Bangalore.",
+              "pincode": 560085,
+              "state":"Karnataka",
+              "city":"Bangalore",
+              "landmark":"Near Bangalore One Office"
+          }
+      ]
+    }
+  }
