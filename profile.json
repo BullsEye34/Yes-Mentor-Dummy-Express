@@ -4,6 +4,7 @@
       "email": "jerry@testingEmail.com",
       "phone": 1234567890,
       "dob": "1999-05-11 11:22:20.667827",
+      "img":"https://avatars.githubusercontent.com/u/24639460?v=4",
       "isVerified": false,
       "address":[
           {
