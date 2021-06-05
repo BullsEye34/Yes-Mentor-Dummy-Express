@@ -1,0 +1,63 @@
+{
+    "questions": [
+      {
+        "part": "Part A",
+        "q": [
+          {
+            "ques": "What is Flutter?",
+            "options": [
+              "Framework",
+              "Programming Language",
+              "Scripting Language",
+              "None of the Above"
+            ]
+          },
+          {
+            "ques": "What is React JS?",
+            "options": [
+              "Javascript Library",
+              "Programming Language",
+              "Scripting Language",
+              "None of the Above"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "Part B",
+        "q": [
+          {
+            "ques": "What is Internet?",
+            "options": [
+              "Framework",
+              "Programming Language",
+              "Network of Networks",
+              "None of the Above"
+            ]
+          },
+          {
+            "ques": "Who is the father of Computers?",
+            "options": [
+              "Javascript Library",
+              "Charles Babbage",
+              "Scripting Language",
+              "None of the Above"
+            ]
+          }
+        ]
+      },
+      {
+        "part": "Part C",
+        "q": [
+          {
+            "ques": "What is √7921?",
+            "options": ["89", "88", "78", "79"]
+          },
+          {
+            "ques": "When did the World War 2 end?",
+            "options": ["1945", "1947", "1949", "1953"]
+          }
+        ]
+      }
+    ]
+  }
