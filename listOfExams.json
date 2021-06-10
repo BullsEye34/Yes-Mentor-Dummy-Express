@@ -1,0 +1,20 @@
+{
+    "exams":[
+        {
+            "examID":"123456",
+            "title":"First Exam",
+            "subtitle":"N/A",
+            "canTake":true
+        },{
+            "examID":"253416",
+            "title":"Second Exam",
+            "subtitle":"N/A",
+            "canTake":true
+        },{
+            "examID":"725142",
+            "title":"Last Exam",
+            "subtitle":"You can only take up this exam after all previous exams",
+            "canTake":false
+        }
+    ]
+}
