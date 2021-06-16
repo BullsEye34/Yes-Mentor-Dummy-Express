@@ -4,6 +4,7 @@
         "part": "Part A",
         "q": [
           {
+            "qid":"abcdfegh",
             "ques": "What is Flutter?",
             "options": [
               "Framework",
@@ -13,6 +14,7 @@
             ]
           },
           {
+            "qid":"abcddegh",
             "ques": "What is React JS?",
             "options": [
               "Javascript Library",
@@ -27,6 +29,7 @@
         "part": "Part B",
         "q": [
           {
+            "qid":"abcsfegh",
             "ques": "What is Internet?",
             "options": [
               "Framework",
@@ -36,6 +39,7 @@
             ]
           },
           {
+            "qid":"sbcdfegh",
             "ques": "Who is the father of Computers?",
             "options": [
               "Javascript Library",
@@ -50,10 +54,12 @@
         "part": "Part C",
         "q": [
           {
+            "qid":"zbcdfegh",
             "ques": "What is √7921?",
             "options": ["89", "88", "78", "79"]
           },
           {
+            "qid":"qbcdfegh",
             "ques": "When did the World War 2 end?",
             "options": ["1945", "1947", "1949", "1953"]
           }
