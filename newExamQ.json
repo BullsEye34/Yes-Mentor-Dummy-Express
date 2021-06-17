@@ -1,0 +1,45 @@
+[
+    {
+        "data": [
+            {
+                "id": "0e37ffaa-d92e-4da5-bb8d-4372605b08b7",
+                "description": "What do birds do?",
+                "sectionName": "Part A",
+                "imageKey": null,
+                "category": "category2",
+                "classification": "application",
+                "difficulty": "medium",
+                "options": [
+                    "Sing",
+                    "Dance",
+                    "Fly",
+                    "Laugh",
+                    "Code"
+                ],
+                "correctOption": "Fly",
+                "createdAt": "2021-06-17T17:36:38.142Z",
+                "updatedAt": "2021-06-17T17:36:38.142Z"
+            },
+            {
+                "id": "d0b88d64-f29a-4e1d-88b0-8306c28c4675",
+                "description": "What do birds do?",
+                "sectionName": "Part A",
+                "imageKey": null,
+                "category": "category2",
+                "classification": "application",
+                "difficulty": "medium",
+                "options": [
+                    "Sing",
+                    "Dance",
+                    "Fly",
+                    "Laugh",
+                    "Code"
+                ],
+                "correctOption": "Fly",
+                "createdAt": "2021-06-17T17:37:01.557Z",
+                "updatedAt": "2021-06-17T17:37:01.557Z"
+            }
+        ],
+        "message": "Objective Questions successfully fetched."
+    }
+]
