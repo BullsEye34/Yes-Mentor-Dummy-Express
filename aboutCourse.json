@@ -34,5 +34,29 @@
       "startColor": "0xff6D62EA",
       "endColor": "0xff5047C0"
     }
+  ],
+  "faqs": [
+    {
+      "q": "How are these courses going to help with my preparation ? ",
+      "a": "These courses  will give you all the resources you need for your preparation. It covers everything a typical competitive exam syllabus has. From concise study material for general knowledge to previous year’s question papers and comprehensive practice for reasoning and mathematics, these courses cover everything."
+    },
+    {
+      "q": "Are these courses paid? ",
+      "a": "Yes, these courses are paid so we can maintain the standards of this platform where our team of developers and experienced faculty collaborate and work hard so we can equip an aspirant with everything they need to clear various competitive exams."
+    },
+    {
+      "q": "What is the duration of the various courses? ",
+      "a": "For through preparation and in order to cover all the necessary topics the duration of the courses vary for different exams. "
+    },
+    {
+      "q": "Who is the course coordinator for these courses? ",
+      "a": "We have a team of experienced teachers with us and everyone has their own niche which they expertise in hence every course has a different coordinator. "
+    }
+  ],
+  "how": [
+    "Takes your exam preparation to the next level and pushes your thinking higher with various mock examinations!",
+    "Takes your exam preparation to the next level and pushes your thinking higher with various mock examinations!",
+    "Takes your exam preparation to the next level and pushes your thinking higher with various mock examinations!",
+    "Takes your exam preparation to the next level and pushes your thinking higher with various mock examinations!"
   ]
 }
