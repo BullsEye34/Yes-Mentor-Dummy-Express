@@ -1,35 +1,38 @@
 {
-    "name": "Statistics",
-    "lecturer": "Dev Bahl",
-    "role": "Mathematician",
-    "desc":
-        "Data Analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful. ",
-    "rating": 4.5,
-    "students": 5000,
-    "others": [
-      {
-        "img": "https://placeimg.com/640/640/any",
-        "title": "More than 20 Hours of Lectures",
-        "startColor": "0xffDE5EAD",
-        "endColor": "0xffEA6287"
-      },
-      {
-        "img": "https://placeimg.com/640/640/any",
-        "title": "Regular Assessments of all topics",
-        "startColor": "0xffE49764",
-        "endColor": "0xffAF5D1F"
-      },
-      {
-        "img": "https://placeimg.com/640/640/any",
-        "title": "Check your progress and daily ratings",
-        "startColor": "0xff00C179",
-        "endColor": "0xff00613D"
-      },
-      {
-        "img": "https://placeimg.com/640/640/any",
-        "title": "Certificate of completion",
-        "startColor": "0xff6D62EA",
-        "endColor": "0xff5047C0"
-      }
-    ]
-  }
+  "name": "Statistics",
+  "lecturer": "Dev Bahl",
+  "role": "Mathematician",
+  "desc": "Data Analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful. ",
+  "rating": 4.5,
+  "students": 5000,
+  "cost": "10000",
+  "time": "6",
+  "lectureCount": "6",
+  "mode": "online",
+  "others": [
+    {
+      "img": "https://placeimg.com/640/640/any",
+      "title": "More than 20 Hours of Lectures",
+      "startColor": "0xffDE5EAD",
+      "endColor": "0xffEA6287"
+    },
+    {
+      "img": "https://placeimg.com/640/640/any",
+      "title": "Regular Assessments of all topics",
+      "startColor": "0xffE49764",
+      "endColor": "0xffAF5D1F"
+    },
+    {
+      "img": "https://placeimg.com/640/640/any",
+      "title": "Check your progress and daily ratings",
+      "startColor": "0xff00C179",
+      "endColor": "0xff00613D"
+    },
+    {
+      "img": "https://placeimg.com/640/640/any",
+      "title": "Certificate of completion",
+      "startColor": "0xff6D62EA",
+      "endColor": "0xff5047C0"
+    }
+  ]
+}
