@@ -9,6 +9,8 @@
   "time": "6",
   "lectureCount": "6",
   "mode": "online",
+  "img":"https://placeimg.com/1920/1080/any",
+  "ifNull":null,
   "others": [
     {
       "img": "https://placeimg.com/640/640/any",
